@@ -2,6 +2,8 @@
 
 This is a hackathon competition held by Pactrans Region 10 Virtual Conference.
 
+[![Watch the video](./image/video.png)](https://youtu.be/Q-cr23zdObQ)
+
 In late March, the SMB (Small and Medium Business) Group surveyed more than 500 businesses and found that personal service and retail are two categories most affected by covid-19. By means of this hackathon, we proposed solutions for local businesses to counter the impact.
 
 We visualized the changes in TPS of all segments. We make TPS in February as the baseline condition since it is before the coronavirus pandemic and computed the delta TPS from March to the end of June.
