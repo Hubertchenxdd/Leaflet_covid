@@ -146,7 +146,7 @@ def geojson_delta(tps):
         for i in range(0, len(temp), 2):
             coordinates_arr.append([float(temp[i]), float(temp[i+1])])
         times_arr=[]
-        for i in range(0,len(coordinates_arr)):#each feature has a 'times' property with the same length as the coordinates array#所以times要和坐标长度一样
+        for i in range(0,len(coordinates_arr)):#each feature has a 'times' property with the same length as the coordinates array
             times_arr.append(row['Date'])
         feature = {
             'type': 'Feature',
